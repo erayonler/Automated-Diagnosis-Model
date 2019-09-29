@@ -11,4 +11,4 @@ https://towardsdatascience.com/transfer-learning-using-mobilenet-and-keras-c75da
 https://towardsdatascience.com/transfer-learning-for-image-classification-using-keras-c47ccf09c8c8
 
 
-![Screenshot](eray_onler.png)
+![Screenshot](NORMAL2-IM-1427-0001.jpeg)
